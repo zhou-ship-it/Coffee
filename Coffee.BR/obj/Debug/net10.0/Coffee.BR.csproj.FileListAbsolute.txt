@@ -1,0 +1,15 @@
+D:\DevLab\Coffee\Coffee.BR\bin\Debug\net10.0\Coffee.BR.deps.json
+D:\DevLab\Coffee\Coffee.BR\bin\Debug\net10.0\Coffee.BR.dll
+D:\DevLab\Coffee\Coffee.BR\bin\Debug\net10.0\Coffee.BR.pdb
+D:\DevLab\Coffee\Coffee.BR\bin\Debug\net10.0\Coffee.DAL.dll
+D:\DevLab\Coffee\Coffee.BR\bin\Debug\net10.0\Coffee.DAL.pdb
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.csproj.AssemblyReference.cache
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.AssemblyInfoInputs.cache
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.AssemblyInfo.cs
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.csproj.CoreCompileInputs.cache
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.csproj.Up2Date
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.dll
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\refint\Coffee.BR.dll
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.pdb
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\ref\Coffee.BR.dll
