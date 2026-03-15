@@ -13,3 +13,4 @@ D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.dll
 D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\refint\Coffee.BR.dll
 D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.pdb
 D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\ref\Coffee.BR.dll
+D:\DevLab\Coffee\Coffee.BR\obj\Debug\net10.0\Coffee.BR.sourcelink.json

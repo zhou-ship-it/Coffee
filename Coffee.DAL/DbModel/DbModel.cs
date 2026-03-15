@@ -239,6 +239,9 @@ public partial class DbModel : DbContext
         {
             entity.ToTable("User")
                 .HasKey(e => e.UserId);
+            entity.Property(e => e.Email)
+                .HasMaxLength(255)
+                .IsRequired(false);
         });
     }
         #endregion

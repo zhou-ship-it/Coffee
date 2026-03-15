@@ -29,4 +29,9 @@ public partial class User
     [Unicode(false)]
     public string? Role { get; set; }
 
+    [Column("email")]
+    [StringLength(255)]
+    [Unicode(false)]
+    public string? Email { get; set; }
+
 }

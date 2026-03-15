@@ -10,7 +10,7 @@ namespace Coffee.DAL.DTO;
 public partial class Purchase : Base.Purchase
 {
    
-    public virtual List<Base.PurchaseDetail> PurchaseDetails { get; set; } 
+    public virtual List<PurchaseDetail> PurchaseDetails { get; set; } 
 
    
    
